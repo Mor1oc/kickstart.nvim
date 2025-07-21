@@ -4,4 +4,5 @@
 -- See the kickstart.nvim README for more information
 local M = {}
 M.plugins = 'custom.plagins'
+M.plugins = 'custom.none-ls'
 return M
